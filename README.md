@@ -1,3 +1,3 @@
 <div dir="rtl">
 
-# Persian Machine Learning Glossary - واژه‌نامه‌ی فارسی یادگیری ماشین
+# واژه‌نامه‌ی فارسی یادگیری ماشین - Persian Machine Learning Glossary
