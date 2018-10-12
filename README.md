@@ -1,6 +1,7 @@
 <div dir="rtl">
 
 # واژه‌نامه‌ی فارسی یادگیری ماشین - Persian Machine Learning Glossary
+</div>
 
 | English word or phrase | ترجمه‌ی فارسی | پیشنهاددهنده |
 |------------------------|:------------:|:------------:|
