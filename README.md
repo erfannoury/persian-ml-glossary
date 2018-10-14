@@ -33,6 +33,8 @@
 ## واژه‌نامه
 </div>
 
+<div align="center">
+  
 | English word or phrase | ترجمه‌ی فارسی | پیشنهاددهنده |
 |------------------------|:------------:|:------------:|
 | Bias                   |      [#2](https://github.com/erfannoury/persian-ml-glossary/issues/2)       |     -       |
@@ -44,3 +46,4 @@
 | Softmax                |  بیشینه‌ی هموار | @momeni   |
 | Unbiased               |  نااریب      |   @momeni    |
 | Variance               |    وردایی    |    @momeni   |
+</div>
