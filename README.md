@@ -5,5 +5,8 @@
 
 | English word or phrase | ترجمه‌ی فارسی | پیشنهاددهنده |
 |------------------------|:------------:|:------------:|
-| Variance               |    وردایی    |    @momeni   |
 | Bias                   |    سوگیری    |   @reza1615  |
+| Classification         |    دسته‌بندی |  @erfannoury |
+| Scalar                 |    نرده‌ای   |    @momeni   |
+| Softmax                |  بیشینه‌ی هموار | @momeni   |
+| Variance               |    وردایی    |    @momeni   |
