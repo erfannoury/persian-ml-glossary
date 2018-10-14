@@ -42,6 +42,7 @@
 | Class                  |      دسته    |  @erfannoury |
 | Classification         |    دسته‌بندی |  @erfannoury |
 | Estimator              |  تخمین‌گر    |      ?       |
+| Parameter              | [#1](https://github.com/erfannoury/persian-ml-glossary/issues/1)  | - |
 | Scalar                 |    نرده‌ای   |    @momeni   |
 | Softmax                |  بیشینه‌ی هموار | @momeni   |
 | Unbiased               |  نااریب      |   @momeni    |
