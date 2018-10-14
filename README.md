@@ -5,8 +5,12 @@
 
 | English word or phrase | ترجمه‌ی فارسی | پیشنهاددهنده |
 |------------------------|:------------:|:------------:|
-| Bias                   |    سوگیری    |   @reza1615  |
+| Bias                   |      [#2](https://github.com/erfannoury/persian-ml-glossary/issues/2)       |     -       |
+| Biased                 |    اریب      |   @momeni    |
+| Class                  |      دسته    |  @erfannoury |
 | Classification         |    دسته‌بندی |  @erfannoury |
+| Estimator              |  تخمین‌گر    |      ?       |
 | Scalar                 |    نرده‌ای   |    @momeni   |
 | Softmax                |  بیشینه‌ی هموار | @momeni   |
+| Unbiased               |  نااریب      |   @momeni    |
 | Variance               |    وردایی    |    @momeni   |
