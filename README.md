@@ -46,4 +46,5 @@
 | Softmax                |  بیشینه‌ی هموار | @momeni   |
 | Unbiased               |  نااریب      |   @momeni    |
 | Variance               |    وردایی    |    @momeni   |
+
 </div>
