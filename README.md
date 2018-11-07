@@ -40,6 +40,7 @@
 | English word or phrase | ترجمه‌ی فارسی | پیشنهاددهنده |
 |------------------------|:------------:|:------------:|
 | Bias                   |      [#2](https://github.com/erfannoury/persian-ml-glossary/issues/2)       |     -       |
+| Bias [[wiki]](https://wiki.lesswrong.com/wiki/Bias) |  سوگیری | ? |
 | Biased                 |    اریب      |   @momeni    |
 | Class                  |      دسته    |  @erfannoury |
 | Classification         |    دسته‌بندی |  @erfannoury |
