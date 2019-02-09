@@ -47,6 +47,7 @@
 | Estimator              |  تخمین‌گر    |      ?       |
 | Hyperparameter         | ابرفراسنج | [@momeni](https://github.com/erfannoury/persian-ml-glossary/issues/1) |
 | Parameter              | فراسنج  | [@momeni](https://github.com/erfannoury/persian-ml-glossary/issues/1) |
+| Pretrained             | پیش‌آموخته | [@mat_mast](https://twitter.com/mat_mast/status/1094327092265791493) |
 | Scalar                 |    نرده‌ای   |    @momeni   |
 | Softmax                |  بیشینه‌ی هموار | @momeni   |
 | Unbiased               |  نااریب      |   @momeni    |
