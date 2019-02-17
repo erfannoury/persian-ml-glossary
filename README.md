@@ -39,7 +39,7 @@
 
 | English word or phrase | ترجمه‌ی فارسی | پیشنهاددهنده |
 |------------------------|:------------:|:------------:|
-| Attention              | ژرف‌نگری .   |  @AlisterTA  |
+| Attention              | ژرف‌نگری     |  @AlisterTA  |
 | Bias                   |      [#2](https://github.com/erfannoury/persian-ml-glossary/issues/2)       |     -       |
 | Bias [[wiki]](https://wiki.lesswrong.com/wiki/Bias) |  سوگیری | ? |
 | Biased                 |    اریب      |   @momeni    |
@@ -50,6 +50,8 @@
 | One-hot                | تک‌فعال      |  @erfannoury |
 | Parameter              | فراسنج  | [@momeni](https://github.com/erfannoury/persian-ml-glossary/issues/1) |
 | Pretrained             | پیش‌آموخته | [@mat_mast](https://twitter.com/mat_mast/status/1094327092265791493) |
+| Recurrent              | برگشتی       |  [@snrazavi](https://github.com/erfannoury/persian-ml-glossary/issues/6#issue-380799851) |
+| Recursive              | بازگشتی      |  [@snrazavi](https://github.com/erfannoury/persian-ml-glossary/issues/6#issue-380799851) |
 | Scalar                 |    نرده‌ای   |    @momeni   |
 | Softmax                |  بیشینه‌ی هموار | @momeni   |
 | Unbiased               |  نااریب      |   @momeni    |
