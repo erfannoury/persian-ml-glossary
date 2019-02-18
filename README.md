@@ -39,7 +39,7 @@
 
 | English word or phrase | ترجمه‌ی فارسی | پیشنهاددهنده |
 |------------------------|:------------:|:------------:|
-| Attention              | ژرف‌نگری     |  @AlisterTA  |
+| Attention              | ژرف‌نگری     |  [@AlisterTA & @momeni](https://github.com/erfannoury/persian-ml-glossary/issues/5) |
 | Bias                   |      [#2](https://github.com/erfannoury/persian-ml-glossary/issues/2)       |     -       |
 | Bias [[wiki]](https://wiki.lesswrong.com/wiki/Bias) |  سوگیری | ? |
 | Biased                 |    اریب      |   @momeni    |
