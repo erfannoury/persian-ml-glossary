@@ -53,6 +53,7 @@
 | ReLU (Rectified Linear Unit) | واحد همسوساز خطی |  ? |
 | Recurrent              | برگشتی       |  [@snrazavi](https://github.com/erfannoury/persian-ml-glossary/issues/6#issue-380799851) |
 | Recursive              | بازگشتی      |  [@snrazavi](https://github.com/erfannoury/persian-ml-glossary/issues/6#issue-380799851) |
+| Rust                   | راصت         |              |
 | Scalar                 |    نرده‌ای   |    @momeni   |
 | Softmax                |  بیشینه‌ی هموار | @momeni   |
 | Unbiased               |  نااریب      |   @momeni    |
