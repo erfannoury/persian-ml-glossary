@@ -57,3 +57,4 @@
 | Softmax                |  بیشینه‌ی هموار | @momeni   |
 | Unbiased               |  نااریب      |   @momeni    |
 | Variance               |    وردایی    |    @momeni   |
+| long short term memory (LSTM) | حافظه کوچک بلندمدت | @mohammadheydari 
